@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to EazyBank loans related local APIs v240"
+  message: "Welcome to EazyBank loans related local APIs v254"
   contactDetails:
     name: "Amaal Grega - Developer"
     email: "amaal@eazybank.com"
