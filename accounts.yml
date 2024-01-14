@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Xiaolin accounts related local APIs v254"
+  message: "Welcome to Xiaolin accounts related local APIs v346"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
